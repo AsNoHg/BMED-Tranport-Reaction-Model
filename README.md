@@ -9,10 +9,7 @@ Modified BMED transport-reaction model for BMED flue gas absorption-mineralizati
 **pitzer_mod.mlx** is a pitzer model for calculating solution density, osmotic pressure.  
 **pitzer_alpha_gai.mat** is the database of the pitzer model.  
 # Part 2  
-**main_sys_2.mlx** is used to calculate membrane stack voltage, energy consumption, carbon sequestration rate, decalcification rate and other indicators.  
-# Part 3  
 **exergy_4.mlx** is used to calculate exergy during system operation.  
 **fun_exergy4.mlx** is the function used to calculate exergy during system operation.  
 **fluxLR.mlx** is the function used to calculate the flux of ions across the membrane's right and left side.  
 **pitzer_mod_ex.mlx** is a pitzer model for calculating solution density in exergy calculation.  
-**pselfcry.mat** is self-crystallizing data.
